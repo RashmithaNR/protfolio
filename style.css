@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#div1 {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(67, 8, 67);
+    position: relative;
+
+}
+
+#img1 {
+    width: 100px;
+    height: 45px;
+    margin-left: 153px;
+    margin-top: 11px;
+    margin-bottom: -32px;
+    /* color: #fff; */
+}
+
+#div {
+    margin-top: -449px;
+
+}
+
+/* nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+
+    
+} */
+nav ul li {
+    display: inline-block;
+    position: relative;
+    list-style: none;
+    left: 50%;
+    margin: 20px;
+    top: -30px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hove {
+    /* color: red;    */
+    margin-left: 764px;
+    margin-top: -198px;
+}
+
+#div2 {
+    margin-left: -385px;
+    margin-top: -4px;
+}
+
+#div3 {
+    margin-left: 8%;
+    margin-top: 13%;
+}
+
+#div3 h1 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 26px;
+    margin-top: -12px;
+}
+
+span {
+    color: plum;
+}
+
+#div3 p {
+    color: white;
+    line-height: 22px;
+    margin-top: 3px;
+    margin-bottom: 21px;
+}
+
+#div3 a {
+    background: rgb(161, 35, 161);
+    padding: 10px 18px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    /* display: inline-block; */
+
+
+}
+
+.img2 {
+    height: 500px;
+    margin-left: 488px;
+    margin-top: -217px;
+
+}
+
+.img2 .img3 {
+    transform: translateX(-50%);
+    transition: bottom 1s, left 1s;
+}
+
+.img2 .img3 {
+    position: absolute;
+    width: 500px;
+    top: -27px;
+    left: 904px;
+    margin-left: 200px;
+    height: 700px;
+}
+
+.img2 .img3:hover {
+    left: 800px;
+
+}
+
+#img3 {
+    font-size: 30px;
+    margin-left: 110px;
+    color: #fff;
+}
+
+#img4 {
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 201px;
+    color: #fff;
+
+}
+
+#img5 {
+    font-size: 30px;
+    padding-left: 30px;
+    color: #fff;
+}
+
+#div6 {
+    margin-top: -333px;
+}
+
+#div7 {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(67, 8, 67);
+    position: relative;
+    color: #fff;
+    text-align: justify;
+    text-align: left;
+}
